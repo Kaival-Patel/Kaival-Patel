@@ -2,7 +2,7 @@
 
 ## Hello, I'm Kaival Patel 👋!
 ### Full Stack Mobile App Developer
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%3F-yes-blue.svg)](https://www.linkedin.com/in/kaiival/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yes-blue.svg)](https://www.linkedin.com/in/kaiival/)
 
 - 🔭 I’m currently working on Flutter 
 - 🌱 I’m currently learning everything 🤣
