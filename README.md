@@ -11,4 +11,4 @@
 - 💬 Ask me about flutter,firebase,android and java
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=Gmail)](mailto:kaivalpatel53@gmail.com)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend my free time dying in CS GO (Silver 4ever)
+- ⚡ Fun fact: I spend my free time dying in CS GO (Silver 4ever)[![Steam](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=steam)](mailto:kaivalpatel53@gmail.com)
