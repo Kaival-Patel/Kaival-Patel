@@ -9,6 +9,6 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about flutter,firebase,android and java
-- 📫 How to reach me: <button class="btn btn-primary">Gmail</button>
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-mail-red.svg)](mailto:kaivalpatel53@gmail.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend my free time dying in CS GO (Silver 4ever)
