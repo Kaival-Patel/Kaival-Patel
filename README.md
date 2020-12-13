@@ -9,6 +9,6 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with 
 - 💬 Ask me about flutter,firebase,android and java
-- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=Gmail)](mailto:kaivalpatel53@gmail.com) </t> </t>[![Facebook](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=facebook)](https://www.facebook.com/kaival.patel.395/) </t> </t> [![Instagram](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=facebook)](https://www.instagram.com/iamkaival/)
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=Gmail)](mailto:kaivalpatel53@gmail.com) </t> </t>[![Facebook](https://img.shields.io/badge/Ping-white?style=for-the-badge&logo=facebook)](https://www.facebook.com/kaival.patel.395/) </t> </t> [![Instagram](https://img.shields.io/badge/DM-white?style=for-the-badge&logo=instagram)](https://www.instagram.com/iamkaival/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend my free time dying in CS GO (Silver 4ever)[![Steam](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=steam)](mailto:kaivalpatel53@gmail.com)
