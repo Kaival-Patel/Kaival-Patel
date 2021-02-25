@@ -2,7 +2,7 @@
 
 ## Hello, I'm Kaival Patel 👋!
 ### Full Stack Mobile App Developer 📱
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View-blue.svg)](https://www.linkedin.com/in/kaiival/) </t> </t>[![Resume](https://img.shields.io/badge/Resume-View-green.svg)](https://www.linkedin.com/in/kaiival/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAB-558AB8onIUAL7wDXI6oKqpT6MCnBklwg,1614273622588)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bsuu1FJqSTUaLYo%2FZtEecbw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view)/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View-blue.svg)](https://www.linkedin.com/in/kaiival/) </t> </t>[![Resume](https://img.shields.io/badge/Resume-View-green.svg)](https://www.linkedin.com/in/kaiival/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAB-558AB8onIUAL7wDXI6oKqpT6MCnBklwg,1614273622588)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bsuu1FJqSTUaLYo%2FZtEecbw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view) 
 - 🔭 I’m currently working on Flutter 
 - 🌱 I’m currently learning everything 🤣
 - 📝 I’m looking to start publishing articles on medium 
